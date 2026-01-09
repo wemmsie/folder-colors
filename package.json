@@ -37,9 +37,9 @@
         "id": "foldercolors_red",
         "description": "Folder Color Red",
         "defaults": {
-          "dark": "#FF0000",
-          "light": "#FF0000",
-          "highContrast": "#FF0000"
+          "dark": "#FB5F5F",
+          "light": "#FB5F5F",
+          "highContrast": "#FB5F5F"
         }
       },
       {
@@ -82,9 +82,9 @@
         "id": "foldercolors_green",
         "description": "Folder Color Green",
         "defaults": {
-          "dark": "#008000",
-          "light": "#008000",
-          "highContrast": "#008000"
+          "dark": "#399539",
+          "light": "#399539",
+          "highContrast": "#399539"
         }
       },
       {
@@ -115,48 +115,48 @@
         }
       },
       {
-        "id": "foldercolors_blue",
-        "description": "Folder Color Blue",
+        "id": "foldercolors_periwinkle",
+        "description": "Folder Color Periwinkle",
         "defaults": {
-          "dark": "#0000FF",
-          "light": "#0000FF",
-          "highContrast": "#0000FF"
-        }
-      },
-      {
-        "id": "foldercolors_indigo",
-        "description": "Folder Color Indigo",
-        "defaults": {
-          "dark": "#4B0082",
-          "light": "#4B0082",
-          "highContrast": "#4B0082"
+          "dark": "#6565B6",
+          "light": "#6565B6",
+          "highContrast": "#6565B6"
         }
       },
       {
         "id": "foldercolors_purple",
         "description": "Folder Color Purple",
         "defaults": {
-          "dark": "#800080",
-          "light": "#800080",
-          "highContrast": "#800080"
+          "dark": "#6B4189",
+          "light": "#6B4189",
+          "highContrast": "#6B4189"
+        }
+      },
+      {
+        "id": "foldercolors_berry",
+        "description": "Folder Color Berry",
+        "defaults": {
+          "dark": "#8C2A8C",
+          "light": "#8C2A8C",
+          "highContrast": "#8C2A8C"
         }
       },
       {
         "id": "foldercolors_violet",
         "description": "Folder Color Violet",
         "defaults": {
-          "dark": "#C700FF",
-          "light": "#C700FF",
-          "highContrast": "#C700FF"
+          "dark": "#B235D4",
+          "light": "#B235D4",
+          "highContrast": "#B235D4"
         }
       },
       {
         "id": "foldercolors_magenta",
         "description": "Folder Color Magenta",
         "defaults": {
-          "dark": "#FF33A6",
-          "light": "#FF33A6",
-          "highContrast": "#FF33A6"
+          "dark": "#F855B1",
+          "light": "#F855B1",
+          "highContrast": "#F855B1"
         }
       },
       {
